@@ -7,7 +7,7 @@ const Navbar = ({ exclude }) => {
     const paths = [
         { name: "Home", path: "/", icon: <FaHome /> },
         { name: "About", path: "/about", icon: <FaInfoCircle /> },
-        { name: "Gallery", path: "/gallery", icon: <FaPhotoVideo /> },
+        { name: "Works", path: "/gallery", icon: <FaPhotoVideo /> },
     ];
 
     return (
