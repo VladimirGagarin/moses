@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/moses/static/css/main.a7fe0f7a.css",
-    "main.js": "/moses/static/js/main.d811ee6a.js",
+    "main.js": "/moses/static/js/main.558dbdae.js",
     "static/js/453.7ee4257d.chunk.js": "/moses/static/js/453.7ee4257d.chunk.js",
     "index.html": "/moses/index.html",
     "main.a7fe0f7a.css.map": "/moses/static/css/main.a7fe0f7a.css.map",
-    "main.d811ee6a.js.map": "/moses/static/js/main.d811ee6a.js.map",
+    "main.558dbdae.js.map": "/moses/static/js/main.558dbdae.js.map",
     "453.7ee4257d.chunk.js.map": "/moses/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7fe0f7a.css",
-    "static/js/main.d811ee6a.js"
+    "static/js/main.558dbdae.js"
   ]
 }
